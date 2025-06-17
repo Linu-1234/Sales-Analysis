@@ -49,17 +49,13 @@ This project is a comprehensive sales analysis of a pizza business using a trans
 - Used buttons to navigate between dashboard pages
 
 ## Dashboard Interaction
-Home Dashboard
-
+#### Home Dashboard
 
 
 ![Dashboard page 1](https://github.com/user-attachments/assets/ef76bfe7-e8cc-4ccd-8a81-f8555147eb47)
 
 
-
-
-Best/Worst Seller Dashboard
-
+#### Best/Worst Seller Dashboard
 
 
 ![Dashboard page 2](https://github.com/user-attachments/assets/c70c4ef7-5113-4eaa-962f-71f5662ca8ce)
