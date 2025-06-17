@@ -60,6 +60,85 @@ This project is a comprehensive sales analysis of a pizza business using a trans
 
 ![Dashboard page 2](https://github.com/user-attachments/assets/c70c4ef7-5113-4eaa-962f-71f5662ca8ce)
 
+
+
+## Insights
+### 🧾 Page 1: Sales Overview Dashboard
+- 🔹 KPIs
+  - Total Revenue: ₹817.86K
+  - Average Order Value: ₹38.31
+  - Total Pizzas Sold: 49,574
+  - Total Orders: 21,350
+  - Average Pizzas Per Order: 2.32
+- 📅 Daily Trend for Total Orders
+  - Orders steadily increase from Sunday to Friday.
+  - Friday shows the highest number of orders (~3.5K).
+  - Sunday has the lowest order count (~2.6K).
+- 📈 Monthly Trend for Total Orders
+  - Highest orders in July and January.
+  - September and October see a noticeable drop in orders.
+  - Seasonal patterns may exist — ideal for targeting promotions.
+- 🍕 Percentage of Sales by Pizza Category
+  - Classic: 26.91% (Top-selling category)
+  - Supreme: 25.46%
+  - Chicken: 23.96%
+  - Veggie: 23.68%
+- 🍕 Percentage of Sales by Pizza Size
+  - Large: 45.89% (Most preferred)
+  - Medium: 30.49%
+  - Regular: 21.77%
+  - X-Large: 1.72%
+  - XX-Large: 0.12%
+- 📊 Total Pizzas Sold by Category-
+  - Classic: 14,888
+  - Supreme: 11,987
+  - Veggie: 11,649
+  - Chicken: 11,050
+- 🗓️ Busy Days and Times
+  - Days: Maximum orders on Friday and Saturday evenings.
+  - Months: Peak sales during July and January.
+- 🏆 Sales Performance Highlights
+  - Category: Classic contributes to maximum sales and total orders.
+  - Size: Large-size pizzas generate the highest sales.
+### 🧾 Page 2: Best/Worst Sellers Dashboard
+- 🥇 Top 5 Pizzas by Revenue
+  - The Thai Chicken Pizza – ₹43K
+  - The Barbecue Chicken Pizza – ₹43K
+  - The California Chicken Pizza – ₹41K
+  - The Classic Deluxe Pizza – ₹38K
+  - The Spicy Italian Pizza – ₹35K
+- 🥇 Top 5 Pizzas by Quantity
+  - The Classic Deluxe Pizza – 2.5K
+  - The Barbecue Chicken Pizza – 2.4K
+  - The Hawaiian Pizza – 2.4K
+  - The Pepperoni Pizza – 2.4K
+  - The Thai Chicken Pizza – 2.4K
+- 🥇 Top 5 Pizzas by Orders
+  - The Classic Deluxe Pizza – 2.3K
+  - The Hawaiian Pizza – 2.3K
+  - The Pepperoni Pizza – 2.3K
+  - The Barbecue Chicken Pizza – 2.3K
+  - The Thai Chicken Pizza – 2.2K
+- 🧊 Bottom 5 Pizzas by Revenue
+  - The Brie Carre Pizza – ₹12K
+  - The Green Garden Pizza – ₹14K
+  - The Spinach Supreme Pizza – ₹15K
+  - The Mediterranean Pizza – ₹15K
+  - The Spinach Alfredo Pizza – ₹16K
+- 🧊 Bottom 5 Pizzas by Quantity
+  - The Brie Carre Pizza – 490
+  - The Mediterranean Pizza – 933
+  - The Calabrese Pizza – 937
+  - The Spinach Supreme Pizza – 950
+  - The Soppressata Pizza – 961
+- 🧊 Bottom 5 Pizzas by Orders
+  - The Brie Carre Pizza – 480
+  - The Mediterranean Pizza – 912
+  - The Spinach Supreme Pizza – 918
+  -  The Calabrese Pizza – 918
+  - The Chicken Caesar Pizza – 938
+
+
 ## Conclusion
 This project effectively demonstrates the ability to perform end-to-end business intelligence using a sales dataset. The insights derived from the analysis can help stakeholders:
 - Optimize inventory and product offerings
