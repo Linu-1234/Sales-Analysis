@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Sales Performance Dashboard
 This project is a comprehensive sales analysis of a pizza business using a transactional dataset. The project aims to uncover insights into sales trends, customer preferences, and product performance. SQL is used for data querying and report generation, while Power BI is used for dashboard visualization, DAX measures, and Power Query for data cleaning and modeling. This project is built to showcase the capability of end-to-end business intelligence workflows and is aimed to be used as part of a professional data analytics portfolio.
 
 ##  Problem Statement
